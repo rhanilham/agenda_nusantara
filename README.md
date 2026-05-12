@@ -1,6 +1,6 @@
 # Agenda Nusantara
 
-### Biodata Mahasiswa
+### Profil Mahasiswa
 - **Nama:** Rhanilham Fadlillatul Ramadhan
 - **NIM:** 2241720161
 - **Prodi:** Teknik Informatika
@@ -10,19 +10,19 @@
 ### Dokumentasi Antarmuka
 
 #### 1. Halaman Login
-![Login](img/login.jpg)
+<img src="img/login.jpg" width="200">
 
 #### 2. Halaman Beranda
-![Beranda](img/beranda.jpg)
+<img src="img/beranda.jpg" width="200">
 
 #### 3. Halaman Tambah Tugas Penting
-![Tugas Penting](img/penting.jpg)
+<img src="img/penting.jpg" width="200">
 
 #### 4. Halaman Tambah Tugas Biasa
-![Tugas Biasa](img/biasa.jpg)
+<img src="img/biasa.jpg" width="200">
 
 #### 5. Halaman Daftar Tugas
-![Daftar Tugas](img/daftar.jpg)
+<img src="img/daftar.jpg" width="200">
 
 #### 6. Halaman Pengaturan
-![Pengaturan](img/pengaturan.jpg)
+<img src="img/pengaturan.jpg" width="200">
